@@ -18,6 +18,7 @@ public class Projet {
         // TODO code application logic here
         int x;
         int y;
+        int z;
     }
     
 }
